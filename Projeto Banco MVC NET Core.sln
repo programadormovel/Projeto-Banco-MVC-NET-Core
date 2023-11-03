@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto Banco MVC NET Core", "Projeto Banco MVC NET Core\Projeto Banco MVC NET Core.csproj", "{10D3232F-E7F8-4D43-8B88-C3821BB52473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D3232F-E7F8-4D43-8B88-C3821BB52473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D3232F-E7F8-4D43-8B88-C3821BB52473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D3232F-E7F8-4D43-8B88-C3821BB52473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D3232F-E7F8-4D43-8B88-C3821BB52473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D49D3FBE-E786-4BD8-8495-92F16C9B5D4A}
+	EndGlobalSection
+EndGlobal
